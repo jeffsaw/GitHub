@@ -1,4 +1,4 @@
-# Trabalho_partico
+# Trabalho_pratico
 # Nome: Francisco Jefferson da Silva dos Santos. Matrícula: 389103.
 
     Ao iniciar, o programa mostrará uma tela com boas vindas e em seguida pedirá os dados das três contas(normal, poupanca e especial).
